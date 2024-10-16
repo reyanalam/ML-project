@@ -1,5 +1,5 @@
 import sys
-import logging
+from src.logger import logging
 
 def error_message_detail(error, error_detail: sys):
     _, _, exc_tb = error_detail.exc_info()  # Extract exception details
@@ -17,10 +17,4 @@ class CustomeExceptionClass(Exception):
     def __str__(self):
         return self.error_message  # Return the custom error message when the exception is printed
 
-if __name__ == "__main__":
-    try:
-        a = 1 / 0  # This will trigger a ZeroDivisionError
-    except Exception as e:
-        logging.info("Logging has started")
-        # Properly raise the custom exception with the caught error and sys module details
-        raise CustomeExceptionClass(e, sys)
+
