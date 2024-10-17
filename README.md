@@ -1,5 +1,5 @@
 <h2>Project Title:</h2>
-<p><strong>Machine Learning Model Deployment Using Streamlit</strong></p>
+<p><strong>End to End Machine Learning Student Performance Prediction</strong></p>
 
 <h2>Project Overview:</h2>
 <p>
