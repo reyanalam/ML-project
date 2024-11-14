@@ -5,8 +5,8 @@
 
 <h2>Project Overview:</h2>
 <p>
-    This project involves building, training, and deploying a machine learning model using Streamlit, 
-    a Python-based framework for creating interactive web applications. The goal of the project is to 
+    This project involves building, training, and deploying a machine learning model using Streamlit.
+    The goal of the project is to 
     predict student math scores based on a variety of categorical and numerical features, such as 
     gender, parental education level, and other academic scores (e.g., reading and writing scores). 
     The project demonstrates the full machine learning lifecycle, from data preprocessing and feature 
