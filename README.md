@@ -1,7 +1,7 @@
 <h2>Project Title:</h2>
 <p><strong>End to End Machine Learning Student Performance Prediction</strong></p>
 
-![Student Performance Prediction](Student score prediction.gif)
+![Student score prediction](https://github.com/user-attachments/assets/0f4410b2-4e4e-4725-9a73-e0298d850d3a)
 
 <h2>Project Overview:</h2>
 <p>
