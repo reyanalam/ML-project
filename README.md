@@ -6,7 +6,7 @@ Please wait while the GIF is loading.Thank you.
 
 <h2>Project Overview:</h2>
 <p>
-    This project involves building, training, and deploying a machine learning model using Streamlit.
+    This project involves building, training, and deploying a machine learning model.
     The goal of the project is to 
     predict student math scores based on a variety of categorical and numerical features, such as 
     gender, parental education level, and other academic scores (e.g., reading and writing scores). 
