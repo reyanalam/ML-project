@@ -1,6 +1,8 @@
 <h2>Project Title:</h2>
 <p><strong>End to End Machine Learning Student Performance Prediction</strong></p>
 
+![Student Performance Prediction](Student score prediction.gif)
+
 <h2>Project Overview:</h2>
 <p>
     This project involves building, training, and deploying a machine learning model using Streamlit, 
