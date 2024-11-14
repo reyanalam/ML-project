@@ -1,5 +1,6 @@
 <h2>Project Title:</h2>
 <p><strong>End to End Machine Learning Student Performance Prediction</strong></p>
+Please wait while the GIF is loading.Thank you.
 
 ![bandicam2024-11-1421-08-11-837-ezgif com-speed](https://github.com/user-attachments/assets/29558989-7157-4834-ae74-11ce218e1b61)
 
