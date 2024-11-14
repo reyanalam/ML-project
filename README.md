@@ -47,4 +47,4 @@ Follow these steps to clone and set up the project on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/end-to-end-student-performance-prediction.git](https://github.com/reyanalam/ML-project.git)
+   git clone https://github.com/reyanalam/ML-project.git
